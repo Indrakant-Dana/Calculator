@@ -8,5 +8,8 @@
 
 _You can visit  👉  [here](https://indrakant-dana.github.io/Calculator/)  to view the website._  💛
 
-PS: This is a part of my Full-Stack Web Development Course 🧑‍🎓.
+**Note:**
+* Will be adding keyboard events soon.
+* This is a part of my Full-Stack Web Development Course 🧑‍🎓.
+
 _**Thanks a lot for visiting**_ . 😊
